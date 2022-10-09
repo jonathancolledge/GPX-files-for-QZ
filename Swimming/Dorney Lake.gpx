@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata>
+		<name>Dorney Lake Swimming Loop</name>
+		<desc>A 5 km swim around Dorney Lake</desc>
+		<author>Jonathan Colledge</author>
+		<keywords>Swim, kayak, SUP, LiDAR</keywords>
+	</metadata>
+	<trk>
+		<name>Dorney Lake</name>
+		<number>1</number>
+		<trkseg>
+<trkpt lon="-0.652235" lat="51.487735"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6525433644180297" lat="51.487780979029296"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.652741" lat="51.487843"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.653324" lat="51.48804"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.656966" lat="51.489724"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6612289067459106" lat="51.49176372026648"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6633799067459106" lat="51.49276637971673"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.664536" lat="51.493324"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.667864" lat="51.494896"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6699030932540894" lat="51.495861301355355"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6732801865081787" lat="51.49744530192609"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6760258220901489" lat="51.498758623374826"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6766757374343872" lat="51.499047191606614"><ele>19.07</ele></trkpt>
+			<trkpt lat="51.49916666666667" lon="-0.6769166666666666">
+			</trkpt>
+<trkpt lon="-0.6770605939178467" lat="51.49927645020169"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6770417718276978" lat="51.499354542301795"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6768959411392212" lat="51.49936657917723"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6763530760574341" lat="51.49916835795616"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6758208134918213" lat="51.49893373458793"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6746669828033447" lat="51.49846714905312"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6733857202377319" lat="51.498053623009994"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6731754957008362" lat="51.498033613640416"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6731319914016723" lat="51.49806898129367"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6731728134918213" lat="51.4981416604371"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6732876122684479" lat="51.49824033955777"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6744653571472168" lat="51.498945198460454"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6756327374343872" lat="51.499715623859345"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6760515006637573" lat="51.49997850412424"><ele>19.07</ele></trkpt>
+			<trkpt lat="51.50008749807708" lon="-0.6760561466217041">
+			</trkpt>
+<trkpt lon="-0.675933203704834" lat="51.50010657701552"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6755720085983277" lat="51.49994339433219"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6750180932540893" lat="51.49970596330233"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.672824720237732" lat="51.49866535811068"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.670682" lat="51.497633"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6673914576721192" lat="51.49606364113468"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6664375423278809" lat="51.495614320497864"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6644840932540893" lat="51.494706300917336"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6601485423278809" lat="51.49261501991061"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6575934576721192" lat="51.491423299723174"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.657017" lat="51.491156619478836"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.653499" lat="51.489448"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.651709" lat="51.488564"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6515184490737915" lat="51.48842757643146"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6514966183853149" lat="51.488271513739065"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6520824465923309" lat="51.487795586301004"><ele>19.07</ele></trkpt>
+<trkpt lon="-0.6522110821743011" lat="51.487747607235164"><ele>19.07</ele></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

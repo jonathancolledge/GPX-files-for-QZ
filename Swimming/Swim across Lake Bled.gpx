@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata>
+		<name>Lake Bled Swim</name>
+		<desc>A swim across Lake Bled, just over 2 km</desc>
+		<author>Jonathan Colledge</author>
+		<keywords>Swim, kayak, SUP, LiDAR</keywords>
+	</metadata>
+	<trk>
+		<name>Lake Bled</name>
+		<number>1</number>
+		<trkseg>
+   <trkpt lat="46.3622680" lon="14.0824580"><ele>475</ele></trkpt>
+   <trkpt lat="46.3625080" lon="14.0829520"><ele>475</ele></trkpt>
+   <trkpt lat="46.3631550" lon="14.0852230"><ele>475</ele></trkpt>
+   <trkpt lat="46.3651570" lon="14.0934080"><ele>475</ele></trkpt>
+   <trkpt lat="46.3687080" lon="14.1074990"><ele>475</ele></trkpt>
+   <trkpt lat="46.36880019391125" lon="14.107999804893494"><ele>475</ele></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

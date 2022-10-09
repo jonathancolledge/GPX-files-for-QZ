@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+	<metadata>
+		<name>Lake Bohinj</name>
+		<desc>Swim across Lake Bohinj</desc>
+		<author>Jonathan Colledge</author>
+		<keywords>Swim, kayak, SUP, LiDAR</keywords>
+	</metadata>
+	<trk>
+		<name>Lake Bohinj</name>
+		<number>1</number>
+		<trkseg>
+   <trkpt lat="46.2799830" lon="13.8378530"><ele>526</ele></trkpt>
+   <trkpt lat="46.2802120" lon="13.8381830"><ele>526</ele></trkpt>
+   <trkpt lat="46.2805400" lon="13.8390410"><ele>526</ele></trkpt>
+   <trkpt lat="46.2810550" lon="13.8416190"><ele>526</ele></trkpt>
+   <trkpt lat="46.2811610" lon="13.8419920"><ele>526</ele></trkpt>
+   <trkpt lat="46.2826050" lon="13.8466090"><ele>526</ele></trkpt>
+   <trkpt lat="46.28276490291152" lon="13.847641152114868"><ele>526</ele></trkpt>
+   <trkpt lat="46.28282302634787" lon="13.849021644180297"><ele>526</ele></trkpt>
+   <trkpt lat="46.282785706365615" lon="13.849641796295167"><ele>526</ele></trkpt>
+   <trkpt lat="46.28264402713361" lon="13.85036903439331"><ele>526</ele></trkpt>
+   <trkpt lat="46.2823240" lon="13.8513740"><ele>526</ele></trkpt>
+   <trkpt lat="46.2820310" lon="13.8524810"><ele>526</ele></trkpt>
+   <trkpt lat="46.2817790" lon="13.8535780"><ele>526</ele></trkpt>
+   <trkpt lat="46.28126509575282" lon="13.856037982803345"><ele>526</ele></trkpt>
+   <trkpt lat="46.2805190" lon="13.8583260"><ele>526</ele></trkpt>
+   <trkpt lat="46.2801990" lon="13.8594110"><ele>526</ele></trkpt>
+   <trkpt lat="46.2798870" lon="13.8604790"><ele>526</ele></trkpt>
+   <trkpt lat="46.2796980" lon="13.8611510"><ele>526</ele></trkpt>
+   <trkpt lat="46.2794680" lon="13.8621990"><ele>526</ele></trkpt>
+   <trkpt lat="46.2792531049091" lon="13.864267635581971"><ele>526</ele></trkpt>
+   <trkpt lat="46.27924881250886" lon="13.864692813491821"><ele>526</ele></trkpt>
+   <trkpt lat="46.2794830" lon="13.8658470"><ele>526</ele></trkpt>
+   <trkpt lat="46.279669237227445" lon="13.866948856483459"><ele>526</ele></trkpt>
+   <trkpt lat="46.27971272630803" lon="13.86725127116394"><ele>526</ele></trkpt>
+   <trkpt lat="46.27968191597567" lon="13.867640169311523"><ele>526</ele></trkpt>
+   <trkpt lat="46.279354566778586" lon="13.868277008598328"><ele>526</ele></trkpt>
+   <trkpt lat="46.2792340" lon="13.8688300"><ele>526</ele></trkpt>
+   <trkpt lat="46.2790390" lon="13.8700080"><ele>526</ele></trkpt>
+   <trkpt lat="46.2788280" lon="13.8729260"><ele>526</ele></trkpt>
+   <trkpt lat="46.278755813441116" lon="13.873660119049072"><ele>526</ele></trkpt>
+   <trkpt lat="46.27860164425212" lon="13.87461118650818"><ele>526</ele></trkpt>
+   <trkpt lat="46.2780940" lon="13.8784770"><ele>526</ele></trkpt>
+   <trkpt lat="46.2778440" lon="13.8801220"><ele>526</ele></trkpt>
+   <trkpt lat="46.2777430" lon="13.8814390"><ele>526</ele></trkpt>
+   <trkpt lat="46.2777620" lon="13.8818760"><ele>526</ele></trkpt>
+   <trkpt lat="46.2776000" lon="13.8837320"><ele>526</ele></trkpt>
+   <trkpt lat="46.27744803107253" lon="13.884020898147583"><ele>526</ele></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
