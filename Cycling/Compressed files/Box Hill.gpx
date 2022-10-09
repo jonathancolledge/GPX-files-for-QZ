@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
     <name>Box Hill</name>
-    <author>
-      Jonathan Colledge
-    </author>
+	<desc>This is the loop from the London 2012 Olympics with elevation data provided by LiDAR. The route was re-tarmacked for the Olympic race. As part of the larger route, competitors repeated the loop until they had ridden Box Hill nine times.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, Bike, LiDAR, VO2max, Climb, Loop</keywords>
   </metadata>
-<trk>  <name>Box&#32;Hill.gpx</name>
+<trk>  <name>Box&#32;Hill</name>
 <trkseg>
 <trkpt lat="51.278940666" lon="-0.325786044"><ele>45.22848604560412</ele></trkpt>
 <trkpt lat="51.278897697" lon="-0.325764891"><ele>45.26359933647066</ele></trkpt>

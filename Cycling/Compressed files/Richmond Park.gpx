@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
     <name>Richmond Park</name>
-    <author>
-    Jonathan Colledge
-    </author>
+    <desc>An eleven kilometer anticlockwise loop with some short hills. It starts just beyond Robin Hood gate. The London 2012 Olympic road race passed through Richmond Park and it is a popular destination for London cyclists.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, Bike, LiDAR, Loop</keywords>
   </metadata>
-<trk>  <name>Richmond&#32;Park.gpx</name>
+<trk>  <name>Richmond&#32;Park</name>
 <trkseg>
 <trkpt lat="51.43851292728537" lon="-0.2574533264137389"><ele>10.607963656672048</ele></trkpt>
 <trkpt lat="51.438562353067866" lon="-0.25745033853324467"><ele>10.659621406322175</ele></trkpt>

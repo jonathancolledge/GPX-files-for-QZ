@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
     <name>Government Camp to Mount Hood</name>
-    <author>
-    Jonathan Colledge
-    </author>
+	<desc>This is a great route for a quick 30 minute climb. It starts at Government Camp (Govi) and ends at Timberline Lodge on Mount Hood. It’s a beautiful, smooth ride up the base of the volcano through wooded areas and past meadows until you see Palmer Glacier above you and arrive at the lodge used as the location in the film The Shining! The average gradient is 7% with no steep sections.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, Bike, LiDAR, Threshold, Climb</keywords>
   </metadata>
-<trk>  <name>Govi&#32;to&#32;Hood.gpx</name>
+<trk>  <name>Govi&#32;to&#32;Hood</name>
 <trkseg>
 <trkpt lat="45.30191874852743" lon="-121.74429191855226"><ele>1214.7620678129335</ele></trkpt>
 <trkpt lat="45.30190609380611" lon="-121.74416532806777"><ele>1215.1573839072</ele></trkpt>

@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
-    <name>#Butterfield Canyon Road</name>
-    <author>
-      Jonathan Colledge
-    </author>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
+    <name>Butterfield Canyon Road</name>
+	<desc>A punishing climb near the world's deepest open-pit mine. There is a rolling lead-in and several leg-busting steep sections, after which you can look forward to a gentle finish. Elevation data were obtained from LiDAR.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, bike, LiDAR, Climb</keywords>
   </metadata>
-<trk>  <name>Butterfield&#32;Canyon&#32;Road.gpx</name>
+<trk>  <name>Butterfield&#32;Canyon&#32;Road</name>
 <trkseg>
 <trkpt lat="40.5134916663726" lon="-112.09020852004322"><ele>1648.0152244307544</ele></trkpt>
 <trkpt lat="40.51348147687595" lon="-112.09026602388191"><ele>1648.2997794735966</ele></trkpt>

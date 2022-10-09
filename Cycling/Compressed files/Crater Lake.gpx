@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
     <name>Crater Lake</name>
-    <author>
-        <text>Jonathan Colledge</text>
-        </author>
+	<desc>A 50 km loop around a volcanic crater lake formed when Mount Mazama collapsed during a short-lived, but dramatic eruption that occured sometime between 6,800 and 7,700 years ago. The lake is rainwater fed only and is the deepest freshwater lake in the USA. It is famed for its clear, blue water.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, Bike, LiDAR, VO2max, Climb, Loop</keywords>
   </metadata>
-<trk>  <name>Crater&#32;Lake.gpx</name>
+<trk>  <name>Crater&#32;Lake</name>
 <trkseg>
 <trkpt lat="42.91287338763439" lon="-122.14961176773043"><ele>2155.3258601081484</ele></trkpt>
 <trkpt lat="42.91295051263767" lon="-122.14972283174325"><ele>2154.488547139685</ele></trkpt>

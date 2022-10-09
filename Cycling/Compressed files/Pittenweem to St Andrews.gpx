@@ -1,18 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<gpx version="1.1"
-  creator="Jonathan Colledge"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1">
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
-  http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
     <name>Pittenweem to St Andrews</name>
-    <author>
-      Jonathan Colledge
-    </author>
-  </metadata>
-<trk>  <name>Pittenweem&#32;to&#32;St&#32;Andrews.gpx</name>
+    <desc>A picturesque ride through Scottish countryside up to a hill where you can look down on the sea and the ancient University town of St Andrews.</desc>
+	<author>Jonathan Colledge</author>
+	<keywords>Cycle, Bike, LiDAR</keywords>
+	</metadata>
+<trk>  <name>Pittenweem&#32;to&#32;St&#32;Andrews</name>
 <trkseg>
 <trkpt lat="56.211935898" lon="-2.729650377"><ele>4.477160534704545</ele></trkpt>
 <trkpt lat="56.21196424" lon="-2.7295984530000004"><ele>4.388043407052728</ele></trkpt>
