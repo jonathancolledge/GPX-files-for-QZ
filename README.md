@@ -8,3 +8,5 @@ Swimming files (for use with QZ and the KayakPro Swimfast Ergo, other KayakPro, 
 Rowing files are similar to the above.
 
 Nordic skiing files will be processed in the same manner. The Vasaloppet file will have the majority of the elevation data provided by LiDAR, but the initial part is an elevation map made of barometric data from multiple GPX files that have been corrected to the first LiDAR based point.
+
+RGT GPX extensions will be used.
