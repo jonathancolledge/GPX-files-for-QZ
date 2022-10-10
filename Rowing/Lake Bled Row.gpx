@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.rgtcycling.com/XML/GpxExtensions/v1 http://www.rgtcycling.com/XML/GpxExtensionsV1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rgt="http://www.rgtcycling.com/XML/GpxExtensions/v1"> 
+<!-- gpx extensions -->
+<extensions> <rgt:parserOptions> <rgt:disableElevationFixes/> <rgt:disableAdvancedSmoothing/> <rgt:maxSlope>35</rgt:maxSlope> </rgt:parserOptions> </extensions>
+	<metadata>
+		<name>Lake Bled Row</name>
+		<desc>Rowing across Lake Bled, the host for multiple World rowing and European rowing championships. Warm up, then race 2 km across the lake.</desc>
+		<author>Jonathan Colledge</author>
+		<keywords>Row, kayak, SUP, LiDAR</keywords>
+	</metadata>
+	<trk>
+		<name>Lake Bled Row</name>
+		<number>1</number>
+		<trkseg>
+			<trkpt lat="46.367627507713479" lon="14.086353055849278"><ele>475</ele></trkpt>
+			<trkpt lat="46.367111111111107" lon="14.089388888888889"><ele>475</ele></trkpt>
+			<trkpt lat="46.36669992801734" lon="14.092296659946442"><ele>475</ele></trkpt>
+			<trkpt lat="46.366714734729442" lon="14.093230068683624"><ele>475</ele></trkpt>
+			<trkpt lat="46.36775" lon="14.098972222222223"><ele>475</ele></trkpt>
+			<trkpt lat="46.368224992540377" lon="14.101673662662506"><ele>475</ele></trkpt>
+			<trkpt lat="46.368805555555561" lon="14.104194444444444"><ele>475</ele></trkpt>
+			<trkpt lat="46.368972222222226" lon="14.105638888888889"><ele>475</ele></trkpt>
+			<trkpt lat="46.368861111111116" lon="14.106833333333332"><ele>475</ele></trkpt>
+			<trkpt lat="46.368672010206389" lon="14.107488952237359"><ele>475</ele></trkpt>
+			<trkpt lat="46.368526226727901" lon="14.107988989568552"><ele>475</ele></trkpt>
+			<trkpt lat="46.368398040299013" lon="14.108069390058517"><ele>475</ele></trkpt>
+		</trkseg>
+		<trkseg>
+			<trkpt lat="46.368380721287117" lon="14.107993708907451"><ele>475</ele></trkpt>
+			<trkpt lat="46.362380778066026" lon="14.083490498030645"><ele>475</ele></trkpt>
+		<extensions><rgt:namedSegment>2 km across the lake</rgt:namedSegment></extensions>
+		</trkseg>
+		<trkseg>
+			<trkpt lat="46.362295232159738" lon="14.083117470145226"><ele>475</ele></trkpt>
+			<trkpt lat="46.362444444444442" lon="14.083055555555555"><ele>475</ele></trkpt>
+			<trkpt lat="46.362558070910552" lon="14.083069190382957"><ele>475</ele></trkpt>
+			<trkpt lat="46.362777777777779" lon="14.083277777777777"><ele>475</ele></trkpt>
+			<trkpt lat="46.363416666666673" lon="14.084111111111111"><ele>475</ele></trkpt>
+			<trkpt lat="46.365805555555561" lon="14.08613888888889"><ele>475</ele></trkpt>
+			<trkpt lat="46.366399629417643" lon="14.086474254727364"><ele>475</ele></trkpt>
+			<trkpt lat="46.366944444444442" lon="14.086444444444444"><ele>475</ele></trkpt>
+			<trkpt lat="46.367375858410604" lon="14.086095636786082"><ele>475</ele></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
